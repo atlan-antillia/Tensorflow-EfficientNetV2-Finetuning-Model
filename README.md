@@ -409,19 +409,32 @@ Confusion matrix:<br>
 <img src="./projects/medical_diagnosis/Gastrointestinal-Cancer/evaluation/confusion_matrix.png" width="740" height="auto"><br>
 
 <br>
+
 <h3>
 References
 </h3>
 <b>1. Gastrointestinal cancer classification and prognostication from histology using deep learning: Systematic review</b><br>
 <pre>
-Kuntz S, Krieghoff-Henning E, Kather JN, Jutzi T, Höhn J, Kiehl L, Hekler A, Alwers E, von Kalle C, Fröhling S, Utikal JS,
- Brenner H, Hoffmeister M, Brinker TJ. Gastrointestinal cancer classification and prognostication from histology 
+Kuntz S, Krieghoff-Henning E, Kather JN, Jutzi T, Höhn J, Kiehl L, Hekler A, Alwers E, 
+von Kalle C, Fröhling S, Utikal JS, Brenner H, Hoffmeister M, Brinker TJ. 
+Gastrointestinal cancer classification and prognostication from histology 
  using deep learning: Systematic review. Eur J Cancer. 
- 2021 Sep;155:200-215. 
- doi: 10.1016/j.ejca.2021.07.012. 
- Epub 2021 Aug 11. PMID: 34391053.
+2021 Sep;155:200-215. 
+doi: 10.1016/j.ejca.2021.07.012. 
+Epub 2021 Aug 11. PMID: 34391053.
 </pre>
 <pre>
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10280208/
+</pre>
 
+<b>2. Gastric cancer: Classification, histology and application of molecular pathology</b><br>
+<pre>
+Hu B, El Hajj N, Sittler S, Lammert N, Barnes R, Meloni-Ehrig A. Gastric cancer: 
+Classification, histology and application of molecular pathology. J Gastrointest Oncol. 
+2012 Sep;3(3):251-61. 
+doi: 10.3978/j.issn.2078-6891.2012.021. 
+PMID: 22943016; PMCID: PMC3418539.
+</pre>
+<pre>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3418539/
 </pre>
