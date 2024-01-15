@@ -1,0 +1,41 @@
+filename, label, prediction1, score1, prediction2, score2
+MildDemented___26 (21)_0_4446_109.jpg,MildDemented,MildDemented,0.5125,NonDemented,0.273
+MildDemented___28 (28)_0_6782_101.jpg,MildDemented,NonDemented,0.6299,VeryMildDemented,0.2835
+MildDemented___29 (16)_0_6782_110.jpg,MildDemented,NonDemented,0.7063,MildDemented,0.132
+MildDemented___29 (23)_0_6782_105.jpg,MildDemented,MildDemented,0.5913,VeryMildDemented,0.3124
+MildDemented___29 (5)_0_4446_102.jpg,MildDemented,MildDemented,0.4114,VeryMildDemented,0.3625
+MildDemented___30 (2)_0_4446_106.jpg,MildDemented,VeryMildDemented,0.6945,MildDemented,0.1432
+MildDemented___31 (17)_0_4446_107.jpg,MildDemented,NonDemented,0.5356,VeryMildDemented,0.3306
+MildDemented___32 (22)_0_6782_103.jpg,MildDemented,NonDemented,0.6587,VeryMildDemented,0.2066
+MildDemented___32 (28)_0_6782_108.jpg,MildDemented,NonDemented,0.9386,MildDemented,0.0282
+MildDemented___32 (8)_0_4446_104.jpg,MildDemented,VeryMildDemented,0.7991,NonDemented,0.1346
+ModerateDemented___27 (2)_0_3721_106.jpg,ModerateDemented,ModerateDemented,0.8021,VeryMildDemented,0.0809
+ModerateDemented___27_0_3721_109.jpg,ModerateDemented,ModerateDemented,0.6326,NonDemented,0.1931
+ModerateDemented___28_0_1267_110.jpg,ModerateDemented,VeryMildDemented,0.575,NonDemented,0.2536
+ModerateDemented___28_0_7954_105.jpg,ModerateDemented,ModerateDemented,0.4683,NonDemented,0.4125
+ModerateDemented___29 (2)_0_8317_102.jpg,ModerateDemented,NonDemented,0.5277,MildDemented,0.1947
+ModerateDemented___29_0_8582_107.jpg,ModerateDemented,ModerateDemented,0.3838,NonDemented,0.3386
+ModerateDemented___30 (2)_0_8415_104.jpg,ModerateDemented,ModerateDemented,0.6055,NonDemented,0.2105
+ModerateDemented___31 (2)_0_8317_108.jpg,ModerateDemented,ModerateDemented,0.6017,NonDemented,0.2476
+ModerateDemented___31_0_5533_103.jpg,ModerateDemented,NonDemented,0.5669,ModerateDemented,0.237
+ModerateDemented___31_0_9375_101.jpg,ModerateDemented,NonDemented,0.66,VeryMildDemented,0.1543
+NonDemented___26 (64)_107.jpg,NonDemented,MildDemented,0.4324,NonDemented,0.3185
+NonDemented___27 (74)_108.jpg,NonDemented,NonDemented,0.5688,VeryMildDemented,0.3391
+NonDemented___28 (33)_109.jpg,NonDemented,NonDemented,0.5354,VeryMildDemented,0.394
+NonDemented___29 (16)_101.jpg,NonDemented,NonDemented,0.8964,ModerateDemented,0.0575
+NonDemented___29 (33)_102.jpg,NonDemented,VeryMildDemented,0.7049,NonDemented,0.1839
+NonDemented___29 (72)_110.jpg,NonDemented,NonDemented,0.8842,ModerateDemented,0.069
+NonDemented___30 (29)_103.jpg,NonDemented,NonDemented,0.5125,VeryMildDemented,0.3945
+NonDemented___30 (49)_104.jpg,NonDemented,NonDemented,0.8956,VeryMildDemented,0.0448
+NonDemented___30 (79)_105.jpg,NonDemented,NonDemented,0.9001,MildDemented,0.0537
+NonDemented___32 (63)_106.jpg,NonDemented,NonDemented,0.8632,VeryMildDemented,0.0682
+VeryMildDemented___26 (57)_104.jpg,VeryMildDemented,VeryMildDemented,0.6919,NonDemented,0.1692
+VeryMildDemented___27 (53)_109.jpg,VeryMildDemented,VeryMildDemented,0.776,NonDemented,0.1406
+VeryMildDemented___27 (64)_110.jpg,VeryMildDemented,VeryMildDemented,0.6056,NonDemented,0.232
+VeryMildDemented___28 (31)_108.jpg,VeryMildDemented,NonDemented,0.6984,VeryMildDemented,0.2402
+VeryMildDemented___29 (4)_103.jpg,VeryMildDemented,MildDemented,0.7739,VeryMildDemented,0.126
+VeryMildDemented___30 (57)_107.jpg,VeryMildDemented,VeryMildDemented,0.8182,NonDemented,0.0935
+VeryMildDemented___30 (68)_102.jpg,VeryMildDemented,NonDemented,0.831,VeryMildDemented,0.1059
+VeryMildDemented___31 (15)_106.jpg,VeryMildDemented,NonDemented,0.9176,MildDemented,0.0322
+VeryMildDemented___31 (70)_105.jpg,VeryMildDemented,VeryMildDemented,0.5727,NonDemented,0.3239
+VeryMildDemented___32 (68)_101.jpg,VeryMildDemented,NonDemented,0.84,VeryMildDemented,0.1015

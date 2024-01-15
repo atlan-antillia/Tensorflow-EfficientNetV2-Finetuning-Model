@@ -1,0 +1,39 @@
+1. Dataset Citation
+
+The original Breast Cancer dataset BreaKHis_v1 has been taken from the following web site:
+
+Laboratório Visão Robótica e Imagem Laboratório de Pesquisa ligado ao Departamento de Informática 
+https://web.inf.ufpr.br/vri/
+
+The original Breast Cancer dataset BreaKHis_v1 has been taken from the following web site:
+
+"https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/"
+Breast Cancer Histopathological Database (BreakHis)
+
+
+2. Create BreaKHis_V1_400X 
+
+The original images (700X460 pixels, 3-channel RGB, 8-bit depth in each channel, PNG format) of 
+benign and malignant in BreakHis_v1 are stored in the different folders specified by magnifying 
+factors (40X, 100X, 200X and 400X) 
+
+For simplicity, we have selected the images in all 400X folders only, and created
+BreaKHis_V1_400X dataset which contains test and train. 
+
+
+BreaKHis_V1_400X
+  ├─test
+  │  ├─benign
+  │  └─malignant
+  └─train
+      ├─benign
+      └─malignant
+
+If you would like to create BeaKHis_V1_400X/master dataset from 
+the original dataset <b>BreaKHis_v1</b>, please move to 
+>python create_BreaKHis_X400_master.py
+
+Also, you can easily split the generated master dataset into train 
+and test by running
+>python split_master.py
+
