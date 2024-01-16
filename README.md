@@ -124,7 +124,6 @@ to the real medical image-datasets in <b>medical_diagnosis</b>,
 <a href="./projects/medical_diagnosis/Breast-Cancer">Breast-Cancer</a><br>
 <a href="./projects/medical_diagnosis/Cervical-Cancer">Cervical-Cancer</a><br>
 <a href="./projects/medical_diagnosis/Colorectal-Cancer">Colorectal-Cancer</a><br>
-
 <a href="./projects/medical_diagnosis/Gastrointestinal-Cancer">Gastrointestinal-Cancer</a><br>
 <a href="./projects/medical_diagnosis/Lung-Colon-Cancer">Lung-Colon-Cancer</a><br>
 <a href="./projects/medical_diagnosis/Lymphoma">Lymphoma</a><br>
@@ -134,8 +133,6 @@ to the real medical image-datasets in <b>medical_diagnosis</b>,
 <a href="./projects/medical_diagnosis/Oral-Cancer">Oral-Cancer</a><br>
 <a href="./projects/medical_diagnosis/Osteosarcoma">Osteosarcoma</a><br>
 <a href="./projects/medical_diagnosis/Skin-Cancer">Skin-Cancer</a><br>
-
-
 
 
 <br>

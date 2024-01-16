@@ -1,4 +1,4 @@
-<h2>EfficientNetV2-Lymphoma/h2>
+<h2>EfficientNetV2-Lymphoma</h2>
  This is an experimental EfficientNetV2 Lymphoma Classification project based on <b>efficientnetv2</b> 
  in <a href="https://github.com/google/automl">Brain AutoML</a>.
  <br>
