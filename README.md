@@ -64,7 +64,10 @@ Tensorflow-EfficientNetV2-Finetuning-Model
         ├─Brain-Tumor
         ├─Breast-Cancer
         ├─Cervical-Cancer
+        ├─Colorectal-Cancer      
         ├─Gastrointestinal-Cancer
+        ├─Lung-Colon-Cancer
+        ├─Lymphoma
         ├─Malaria
         ├─Malignant-Lymphoma
         ├─Mammography
@@ -120,13 +123,18 @@ to the real medical image-datasets in <b>medical_diagnosis</b>,
 <a href="./projects/medical_diagnosis/Brain-Tumor">Brain-Tumor</a><br>
 <a href="./projects/medical_diagnosis/Breast-Cancer">Breast-Cancer</a><br>
 <a href="./projects/medical_diagnosis/Cervical-Cancer">Cervical-Cancer</a><br>
+<a href="./projects/medical_diagnosis/Colorectal-Cancer">Colorectal-Cancer</a><br>
+
 <a href="./projects/medical_diagnosis/Gastrointestinal-Cancer">Gastrointestinal-Cancer</a><br>
+<a href="./projects/medical_diagnosis/Lung-Colon-Cancer">Lung-Colon-Cancer</a><br>
+<a href="./projects/medical_diagnosis/Lymphoma">Lymphoma</a><br>
 <a href="./projects/medical_diagnosis/Malaria">Malaria</a><br>
 <a href="./projects/medical_diagnosis/Malignant-Lymphoma">Malignant-Lymphoma</a><br>
 <a href="./projects/medical_diagnosis/Mammography">Mammography</a><br>
 <a href="./projects/medical_diagnosis/Oral-Cancer">Oral-Cancer</a><br>
 <a href="./projects/medical_diagnosis/Osteosarcoma">Osteosarcoma</a><br>
 <a href="./projects/medical_diagnosis/Skin-Cancer">Skin-Cancer</a><br>
+
 
 
 
