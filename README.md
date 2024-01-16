@@ -1,7 +1,16 @@
-<h2>Tensorflow-EfficientNetV2-Finetuning-Model (2024/01/15)</h2>
+<h2>Tensorflow-EfficientNetV2-Finetuning-Model (Updated: 2024/01/17)</h2>
 This is a Tensorflow2 EfficientNetV2 Finetuning Model for Image Classification based on
 <a href="https://github.com/google/automl/tree/master/efficientnetv2">EfficientNetV2</a>.
- 
+<br> 
+<li>
+2024/01/17: Added <a href="./projects/medical_diagnosis/Colorectal-Cancer">Colorectal-Cancer Classification</a>
+</li>
+<li>
+2024/01/17: Added <a href="./projects/medical_diagnosis/Lung-Colon-Cancer">Lung-Colon-Cancer Classification</a>
+</li>
+
+<br>
+
 <h3>
 1. Development Environment
 </h3>

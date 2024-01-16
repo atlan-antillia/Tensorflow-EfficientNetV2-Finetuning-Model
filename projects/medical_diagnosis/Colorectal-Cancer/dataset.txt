@@ -1,0 +1,8 @@
+This image dataset CRC-VAL-HE-7K used here has been taken from the following website:
+Zenodo: 100,000 histological images of human colorectal cancer and healthy tissue
+https://zenodo.org/record/1214456#.Y3sVDHZBy3A
+
+License (for files):
+ Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/legalcode
+

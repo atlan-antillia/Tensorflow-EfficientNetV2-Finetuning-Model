@@ -1,0 +1,9 @@
+,precision,recall,f1-score,support
+colon_aca,1.0,1.0,1.0,1000.0
+colon_n,1.0,1.0,1.0,1000.0
+lung_aca,1.0,1.0,1.0,1000.0
+lung_n,1.0,1.0,1.0,1000.0
+lung_scc,1.0,1.0,1.0,1000.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,5000.0
+weighted avg,1.0,1.0,1.0,5000.0

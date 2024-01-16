@@ -1,0 +1,7 @@
+ADI
+LYM
+MUC
+MUS
+NORM
+STR
+TUM
