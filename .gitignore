@@ -166,11 +166,15 @@ projects/medical_diagnosis/Acute-Myeloid-Leukemia/models/
 projects/medical_diagnosis/Alzheimer's-Disease/models/
 projects/medical_diagnosis/Brain-Tumor/models/
 projects/medical_diagnosis/Breast-Cancer/models/
-projects/medical_diagnosis/BUV-Breast-Cancer/models/
+
+projects/medical_diagnosis/BUV-Cancer/models/
+
 projects/medical_diagnosis/Cervical-Cancer/models/
+
 projects/medical_diagnosis/Colorectal-Cancer/models/
 
 projects/medical_diagnosis/Gastrointestinal-Cancer/models/
+
 projects/medical_diagnosis/Lung-Colon-Cancer/models/
 
 projects/medical_diagnosis/Lymphoma/models/
@@ -188,11 +192,13 @@ projects/medical_diagnosis/Acute-Myeloid-Leukemia/Resampled_AML_Images/
 projects/medical_diagnosis/Alzheimer's-Disease/Resampled_Alzheimer's_Images/
 projects/medical_diagnosis/Brain-Tumor/Brain-Tumor-Images/
 projects/medical_diagnosis/Breast-Cancer/BreaKHis_V1_400X/
-projects/medical_diagnosis/BUV-Breast-Cancer/BUV_Images/
+projects/medical_diagnosis/BUV-Cancer/BUV_Images/
 projects/medical_diagnosis/Cervical-Cancer/Resampled-pap-smear-images/
+
 projects/medical_diagnosis/Colorectal-Cancer/CRC-VAL-HE-7K-Images/
 
 projects/medical_diagnosis/Gastrointestinal-Cancer/MSIMUT_MSS_Images/
+
 projects/medical_diagnosis/Lung-Colon-Cancer/Lung_Colon_Images/
 
 projects/medical_diagnosis/Lymphoma/Lymphoma_Images/

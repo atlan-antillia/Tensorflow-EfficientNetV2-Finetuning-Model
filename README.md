@@ -3,10 +3,13 @@ This is a Tensorflow2 EfficientNetV2 Finetuning Model for Image Classification b
 <a href="https://github.com/google/automl/tree/master/efficientnetv2">EfficientNetV2</a>.
 <br> 
 <li>
-2024/01/17: Added <a href="./projects/medical_diagnosis/Colorectal-Cancer">Colorectal-Cancer Classification</a>
+2024/01/17: Added <a href="./projects/medical_diagnosis/Colorectal-Cancer">Colorectal-Cancer</a>
 </li>
 <li>
-2024/01/17: Added <a href="./projects/medical_diagnosis/Lung-Colon-Cancer">Lung-Colon-Cancer Classification</a>
+2024/01/17: Added <a href="./projects/medical_diagnosis/Lung-Colon-Cancer">Lung-Colon-Cancer</a>
+</li>
+<li>
+2024/01/17: Added <a href="./projects/medical_diagnosis/BUV-Cancer">BUV-Cancer</a>
 </li>
 
 <br>
