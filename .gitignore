@@ -181,6 +181,11 @@ projects/medical_diagnosis/Lymphoma/models/
 projects/medical_diagnosis/Malaria/models/
 projects/medical_diagnosis/Malignant-Lymphoma/models/
 projects/medical_diagnosis/Mammography/models/
+# 2024/01/18
+projects/medical_diagnosis/Ocular-Disease/models/
+projects/medical_diagnosis/Peripheral_Blood_Cell/models/
+projects/medical_diagnosis/Prostate-Cancer/models/
+
 projects/medical_diagnosis/Oral-Cancer/models/
 projects/medical_diagnosis/Osteosarcoma/models/
 projects/medical_diagnosis/Skin-Cancer/models/
@@ -205,6 +210,12 @@ projects/medical_diagnosis/Lymphoma/Lymphoma_Images/
 projects/medical_diagnosis/Malaria/Malaria_Cell_Images/
 projects/medical_diagnosis/Malignant-Lymphoma/Malignant_Lymphoma_Images/
 projects/medical_diagnosis/Mammography/DDSM_Images/
+
+# 2024/01/18
+projects/medical_diagnosis/Ocular-Disease/Resampled_Ocular_Disease_Images/
+projects/medical_diagnosis/Peripheral_Blood_Cell/Peripheral_Blood_Cell/
+projects/medical_diagnosis/Prostate-Cancer/Resampled_Prostate_Images/
+
 projects/medical_diagnosis/Oral-Cancer/Oral_Cancer_Images/
 projects/medical_diagnosis/Osteosarcoma/Osteosarcoma_Images/
 projects/medical_diagnosis/Skin-Cancer/Resampled_HAM10000/

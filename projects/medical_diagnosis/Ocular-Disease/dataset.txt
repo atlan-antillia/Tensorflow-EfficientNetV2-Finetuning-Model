@@ -1,0 +1,36 @@
+
+This image dataset has been taken from the following website:
+
+Ocular Disease Intelligent Recognition ODIR-5K
+
+https://academictorrents.com/details/cf3b8d5ecdd4284eb9b3a80fcfe9b1d621548f72
+
+Ocular Disease Recognition
+
+https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+
+---
+
+About this Data
+From: https://academictorrents.com/details/cf3b8d5ecdd4284eb9b3a80fcfe9b1d621548f72
+
+Ocular Disease Intelligent Recognition (ODIR) is a structured ophthalmic database of 5,000 patients with age, color fundus photographs from left and right eyes and doctors' diagnostic keywords from doctors.
+
+This dataset is meant to represent ‘‘real-life’’ set of patient information collected by Shanggong Medical Technology Co., Ltd. from different hospitals/medical centers in China. In these institutions, fundus images are captured by various cameras in the market, such as Canon, Zeiss and Kowa, resulting into varied image resolutions.
+Annotations were labeled by trained human readers with quality control management. They classify patient into eight labels including:
+
+Normal (N),
+Diabetes (D),
+Glaucoma (G),
+Cataract (C),
+Age related Macular Degeneration (A),
+Hypertension (H),
+Pathological Myopia (M),
+Other diseases/abnormalities (O)
+
+
+License
+License was not specified on source
+
+Splash Image
+Image from Omni Matryx by Pixabay

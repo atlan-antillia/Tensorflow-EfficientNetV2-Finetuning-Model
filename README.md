@@ -12,6 +12,16 @@ This is a Tensorflow2 EfficientNetV2 Finetuning Model for Image Classification b
 2024/01/17: Added <a href="./projects/medical_diagnosis/BUV-Cancer">BUV-Cancer</a>
 </li>
 
+<li>
+2024/01/18: Added <a href="./projects/medical_diagnosis/Ocular-Disease">Ocular-Disease</a>
+</li>
+<li>
+2024/01/18: Added <a href="./projects/medical_diagnosis/Peripheral_Blood_Cell">Peripheral_Blood_Cell</a>
+</li>
+<li>
+2024/01/18: Added <a href="./projects/medical_diagnosis/Prostate-Cancer">Prostate-Cancer</a>
+</li>
+
 <br>
 
 <h3>
@@ -75,8 +85,11 @@ Tensorflow-EfficientNetV2-Finetuning-Model
         ├─Malaria
         ├─Malignant-Lymphoma
         ├─Mammography
+        ├─Ocular-Disease
         ├─Oral-Cancer
         ├─Osteosarcoma
+        ├─Peripheral_Blood_Cell
+        ├─Prostate-Cancer
         └─Skin-Cancer
 </pre>
 
@@ -135,10 +148,12 @@ to the real medical image-datasets in <b>medical_diagnosis</b>,
 <a href="./projects/medical_diagnosis/Malaria">Malaria</a><br>
 <a href="./projects/medical_diagnosis/Malignant-Lymphoma">Malignant-Lymphoma</a><br>
 <a href="./projects/medical_diagnosis/Mammography">Mammography</a><br>
+<a href="./projects/medical_diagnosis/Ocular-Disease">Ocular-Disease</a><br>
 <a href="./projects/medical_diagnosis/Oral-Cancer">Oral-Cancer</a><br>
 <a href="./projects/medical_diagnosis/Osteosarcoma">Osteosarcoma</a><br>
+<a href="./projects/medical_diagnosis/Peripheral_Blood_Cell">Peripheral_Blood_Cell</a><br>
+<a href="./projects/medical_diagnosis/Prostate-Cancer">Prostate-Cancer</a><br>
 <a href="./projects/medical_diagnosis/Skin-Cancer">Skin-Cancer</a><br>
-
 
 <br>
 <h3>3. Install python packages</h3>
